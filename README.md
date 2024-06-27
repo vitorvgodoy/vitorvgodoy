@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sou um desenvolvedor pleno Full-stack com experiência trabalhando com PHP, MySQL, Bootstrap, HTML5, CSS, JavaScript , Git, Docker e frameworks como CakePHP e Laravel.
+Sou um desenvolvedor pleno Full-stack com experiência trabalhando com PHP, MySQL, Bootstrap, HTML5, CSS, JavaScript , Git, Docker e frameworks como CakePHP e Laravel. 
