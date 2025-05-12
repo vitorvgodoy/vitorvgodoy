@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A full-stack software developer with experience in PHP, MySQL, Bootstrap, HTML5, CSS, JavaScript, Java, and frameworks like CakePHP and Laravel.
+A full-stack software developer with experience in PHP, MySQL, Bootstrap, HTML, CSS, JavaScript, Jquery, TypeScript, SASS, Python, and frameworks like CakePHP and Laravel.
 I have a strong understanding of object-oriented programming, agile development concepts, MVC architecture, code versioning with Git (GitHub and GitLab), and experience with Docker.
 I also have experience in creating and consuming APIs. I studied Systems Analysis and Development at UNIP and am ready to contribute to new projects and provide efficient solutions.
 Please feel free to contact me to discuss your development needs.
